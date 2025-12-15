@@ -29,6 +29,7 @@ class CountryFilterTest {
     @After
     fun clearCountryList() {
         countries = listOf()
+
     }
 
     @Test
